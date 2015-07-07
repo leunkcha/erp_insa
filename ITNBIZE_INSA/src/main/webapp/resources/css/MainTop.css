@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+body{
+	  width: 1280px;
+  margin: 0 auto;
+	
+}
+#bdLeft{
+	  width: 100px;
+  background-color: gray;
+  
+  float: left;
+}
+nav{
+background-color: black;
+height: 50px;
+color: white;
+}
+nav ul{
+list-style-type:none;
+padding:3px;
+display: table;
+margin: 0 auto;
+width: 500px;
+}
+nav ul li{
+float:left;
+  padding: 0 10px 0 0;
+}
+.floatnone{
+float:none !important;
+}
+.floatLeft{
+float:left;
+}
+.floatRight{
+float:right;
+}
+.txtalign{
+text-align:center;
+}
+.txtalignR{
+text-align:right;
+}
