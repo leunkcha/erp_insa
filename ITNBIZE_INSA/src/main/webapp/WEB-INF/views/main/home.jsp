@@ -30,7 +30,7 @@ $(function($){//기본 bdleft 높이 설정
 		<div id="mLeft" class="floatLeft">main menu
 		</div>
 		<div id="mRight">
-			main2 메인aaaattttt
+			main2 메인aaaattttt4
 		</div>
 	</div>
 </div>
